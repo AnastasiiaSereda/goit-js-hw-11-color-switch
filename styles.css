@@ -1,0 +1,22 @@
+button {
+    display: block;
+    margin: 0 auto;
+    cursor: pointer;
+    background: none;
+    border: none;
+    border-radius: 50px;
+    min-width: 400px;
+    min-height: 100px;
+    font-size: 60px;
+    font-weight: bold;
+    color: rgb(235, 226, 226);
+    outline: none;
+}
+
+button:hover {
+    -webkit-box-shadow: 0px 0px 19px 1px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 0px 0px 19px 1px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 0px 19px 1px rgba(0, 0, 0, 0.75);
+}
+
+
