@@ -4,19 +4,20 @@ button {
     cursor: pointer;
     background: none;
     border: none;
-    border-radius: 50px;
-    min-width: 400px;
+    margin-top: 100px;
+    min-width: 320px;
     min-height: 100px;
     font-size: 60px;
     font-weight: bold;
-    color: rgb(235, 226, 226);
+    color: rgb(233, 238, 241);
     outline: none;
+    font-style: italic;
 }
 
 button:hover {
-    -webkit-box-shadow: 0px 0px 19px 1px rgba(0, 0, 0, 0.75);
-    -moz-box-shadow: 0px 0px 19px 1px rgba(0, 0, 0, 0.75);
-    box-shadow: 0px 0px 19px 1px rgba(0, 0, 0, 0.75);
+    -webkit-box-shadow: 0px 0px 19px 1px rgba(99, 92, 92, 0.75);
+    -moz-box-shadow: 0px 0px 19px 1px rgba(68, 33, 66, 0.75);
+    box-shadow: 0px 0px 19px 1px rgba(168, 59, 135, 0.75);
 }
 
 
